@@ -1,2 +1,2 @@
 # Attrs
-![ScreenShot](https://raw.githubusercontent.com/Sambrax/Attrs/main/screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/Renexo-git/Attrs/main/screenshot.png)
